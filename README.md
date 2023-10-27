@@ -1,0 +1,1 @@
+# LandfillDetection_SegFormer
